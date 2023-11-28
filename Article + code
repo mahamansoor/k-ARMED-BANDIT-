@@ -1,0 +1,4 @@
+This second chapter of the Reinforcement learning book written by Sutton et al. (2020) described how evaluative feedback and differentiates it from the instructive feedback.
+Evaluative feedback where the feedback entirely depends on the action taken by the agent where as, instructive feedback where the feedback does not entirely depends on the actions
+taken by the agent. Furthermore, this chapter is based on Non-associative setting where learning does not occur in more than one situation which is a simple version of K-armed
+bandit problem and hence we will apply the reinforcement learning on this simple version of k-armed bandit problem.
